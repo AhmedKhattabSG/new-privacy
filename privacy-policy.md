@@ -32,10 +32,18 @@ Payment Transparency: Payments are processed outside of the app through the Fawr
 Non-Digital Purchases: Payments through Fawry codes are used exclusively for physical goods or services, or non-digital features that do not violate Google Play’s policies.
 User Guidance: Clear instructions on using Fawry codes for payments are provided within the app. These instructions ensure the user understands that payments occur outside Google Play’s billing system.
 
+##  Dynamic Updates
+
+This application uses technology that allows small software updates to be downloaded dynamically to improve performance and fix bugs. These updates are downloaded directly from our servers, ensuring that no core features are altered without user consent.
 
 ##  Data Security
 
 We implement security measures to safeguard your data against unauthorized access. However, please be aware that no transmission over the internet is fully secure, and we cannot guarantee absolute security.
+All dynamic updates are conducted through encrypted channels to ensure the security of user data and protect it from any hacking attempts.
+
+##  User Consent
+
+No update affecting the core features of the application will be implemented without prior notification to the user or their consent.
 
 ## Children's Privacy
 This app is not intended for children under the age of 13. We do not knowingly collect any personal information from children. If we discover that we have collected information from a child without our knowledge, we will delete it immediately.
