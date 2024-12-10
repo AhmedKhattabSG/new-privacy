@@ -35,6 +35,8 @@ User Guidance: Clear instructions on using Fawry codes for payments are provided
 ##  Dynamic Updates
 
 This application uses technology that allows small software updates to be downloaded dynamically to improve performance and fix bugs. These updates are downloaded directly from our servers, ensuring that no core features are altered without user consent.
+This app uses Shorebird technology to optimize updates and enhance user experience. All updates are fully compliant with Google Play policies.
+
 
 ##  Data Security
 
