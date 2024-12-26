@@ -11,7 +11,9 @@ User-Provided Information: We may collect personal information like your email a
 
 This app may use cookies or similar technologies to enhance user experience. Cookies are used for storing user preferences and tracking user interactions with the app to personalize content and improve functionality. Third-party ad networks may use cookies for advertising purposes. You can manage cookie preferences through your device settings.
 
+## Purpose of Notifications
 
+Notifications are used to inform users about important alerts, such as account updates, or to deliver personalized content related to the app and its services.
 
 ##  Data Usage and Sharing
 
